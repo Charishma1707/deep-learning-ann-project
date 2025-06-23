@@ -1,4 +1,10 @@
 venv/
 __pycache__/
+# Ignore all log files
+*.log
 
+# Ignore logs folder (if you have one)
+logs/
+log/
+regressionlogs/
 
